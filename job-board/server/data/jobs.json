@@ -3,18 +3,21 @@
     "id": "soP9m8MdKeQX_ZXZOCSaL",
     "companyId": "pVbRRBQtMVw6lUAkj1k43",
     "title": "Frontend Developer",
-    "description": "We are looking for a Frontend Developer familiar with React."
+    "description": "We are looking for a Frontend Developer familiar with React.",
+    "createdAt": "2018-06-01T00:00:00.000Z"
   },
   {
     "id": "GR7vTA_btqTnLtXcEDX8C",
     "companyId": "pVbRRBQtMVw6lUAkj1k43",
     "title": "Backend Developer",
-    "description": "We are looking for a Backend Developer familiar with Node.js and Express."
+    "description": "We are looking for a Backend Developer familiar with Node.js and Express.",
+    "createdAt": "2018-06-01T00:00:00.000Z"
   },
   {
     "id": "yX71WsWqBRAFuMAIDj4W0",
     "companyId": "wvdB54Gqbdp_NZTXK9Tue",
     "title": "Full-Stack Developer",
-    "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
+    "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React.",
+    "createdAt": "2018-06-01T00:00:00.000Z"
   }
 ]
